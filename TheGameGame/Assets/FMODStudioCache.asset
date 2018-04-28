@@ -11,45 +11,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
   m_Name: FMODStudioCache
   m_EditorClassIdentifier: 
-  EditorBanks:
-  - {fileID: 114499679967143486}
-  - {fileID: 114326348851757472}
-  EditorEvents:
-  - {fileID: 114977056446133110}
-  - {fileID: 114318711803358638}
-  - {fileID: 114295581988472178}
-  - {fileID: 114967855861605434}
-  - {fileID: 114007074209673718}
-  - {fileID: 114032036996197276}
-  - {fileID: 114884547517095142}
-  - {fileID: 114592451896897752}
-  - {fileID: 114028277520496698}
-  - {fileID: 114219794438511934}
-  - {fileID: 114581701777727170}
-  - {fileID: 114782897660298388}
-  - {fileID: 114644628422191318}
-  - {fileID: 114326905702166148}
-  - {fileID: 114460268017580928}
-  - {fileID: 114716850291609798}
-  - {fileID: 114125814070533272}
-  - {fileID: 114102472510743260}
-  - {fileID: 114778627821628854}
-  - {fileID: 114024737557756038}
-  - {fileID: 114456811258132090}
-  - {fileID: 114378154584402480}
-  - {fileID: 114639530734071698}
-  - {fileID: 114589261288231008}
-  - {fileID: 114592492623412294}
-  - {fileID: 114623424989538820}
-  - {fileID: 114952736389289292}
-  - {fileID: 114751760084417128}
-  - {fileID: 114460484205369784}
-  - {fileID: 114496611155057858}
-  - {fileID: 114050107674763912}
-  - {fileID: 114501714637279662}
-  MasterBankRef: {fileID: 114326348851757472}
-  StringsBankRef: {fileID: 114499679967143486}
-  stringsBankWriteTime: 636601015540000000
+  EditorBanks: []
+  EditorEvents: []
+  MasterBankRef: {fileID: 0}
+  StringsBankRef: {fileID: 0}
+  stringsBankWriteTime: 0
   cacheVersion: 2
 --- !u!114 &114007074209673718
 MonoBehaviour:
